@@ -1,1 +1,2 @@
-test linetest line1
+FROM ubuntu:latest
+COPY .
